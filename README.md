@@ -28,3 +28,9 @@ Installation
     (load "jyutping.el")
 ```
 
+Romanisation
+------------
+
+Please see ![this Wikipedia page](https://en.wikipedia.org/wiki/Jyutping) for more
+details about the Jyutping romianisation scheme.
+
